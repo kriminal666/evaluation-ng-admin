@@ -44,9 +44,9 @@ make run
 
 You can now open `http://localhost:3000/`
 
-![alt text][evaluation.png]
+![alt text](https://github.com/kriminal666/evaluation-ng-admin/blob/master/evaluation.png)
 
-![alt text][grade_scale.png]
+![alt text](https://github.com/kriminal666/evaluation-ng-admin/blob/master/grade_scale.png)
 
 ## Evaluation project
 
